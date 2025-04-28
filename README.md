@@ -1,5 +1,3 @@
-<img src="https://github.com/jleonard253/jleonard253/blob/main/Fintech_Professional_Under_1MB.png" alt="Professional Fintech Banner" width="100%" />
-
 ## About Me
 
 Hi, I'm Jeff Leonard! 👋
